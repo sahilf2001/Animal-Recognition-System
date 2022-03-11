@@ -1,0 +1,14 @@
+Domestic Animals:
+1)Cat
+2)Dog
+3)Horse
+4)Sheep
+5)Cow
+
+10)Bird
+
+Wild Animals:
+6)Elephant
+7)Bear
+8)Zebra
+9)Giraffe
